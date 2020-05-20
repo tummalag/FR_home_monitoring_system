@@ -10,4 +10,3 @@
 
 ## Tasks
 * Install python 3.7, PIP, open CV, openface, 
-* 
