@@ -1,6 +1,6 @@
 # FR_home_monitoring_system
 
-## Requirements V_2020.05.1.1
+## Requirements V_2020.05.1
 * Face reconginition
 
 
