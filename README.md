@@ -1,5 +1,7 @@
 # FR_home_monitoring_system
 
+Ref: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+
 ## Requirements V_2020.05.1
 * Face reconginition
 
