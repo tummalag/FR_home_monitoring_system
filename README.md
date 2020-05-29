@@ -1,6 +1,5 @@
 # FR_home_monitoring_system
 
-Ref: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 
     python3 extract_embeddings.py --dataset dataset --embeddings output/embeddings.pickle --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7
@@ -46,3 +45,7 @@ Ref: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 ## Tasks
 * Install python 3.7, PIP, open CV, openface, 
+
+
+
+Ref: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
