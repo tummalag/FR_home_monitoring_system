@@ -11,23 +11,22 @@ Ref: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
     
 ## Directory tree
 ```txt
-[01;34m.[00m
-├── commands.txt
-├── [01;34mdataset[00m
-│   ├── [01;34mName1[00m [30 entries]
-│   ├── [01;34mName2[00m [87 entries]
-│   ├── [01;34mName3[00m [50 entries]
-│   ├── [01;34mName4[00m [31 entries]
+
+├── dataset
+│   ├── Person1imgDirectory
+│   ├── Person2imgDirectory
+│   ├── Person3imgDirectory
+│   ├── Person4imgDirectory
 ├── extract_embeddings.py
-├── [01;34mface_detection_model[00m
+├── face_detection_model
 │   ├── deploy.prototxt
 │   └── res10_300x300_ssd_iter_140000.caffemodel
-├── [01;34mimages[00m
-│   ├── [01;35mimg1.jpg[00m
-│   ├── [01;35mimg2.jpg[00m
-│   ├── [01;35mimg3.jpg[00m
+├── images
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   ├── img3.jpg
 ├── openface_nn4.small2.v1.t7
-├── [01;34moutput[00m
+├── output
 │   ├── embeddings.pickle
 │   ├── le.pickle
 │   └── recognizer.pickle
